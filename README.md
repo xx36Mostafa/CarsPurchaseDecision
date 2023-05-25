@@ -3,7 +3,7 @@ Dataset:
 Cars - Purchase Decision Dataset
 Link for dataset:
 https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset
-Exploratory Data Analysis:
+**Exploratory Data Analysis**:
 In first we need to do Exploration For Data or so called eda,
 We use the some library’s in python like { Pandas , sklearn , matplotlib , numpy , seaborn }. In first we need to read data do this with pandas pd.read_csv(‘path’)
 And use some functions to do the eda like 
